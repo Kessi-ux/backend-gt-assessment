@@ -25,10 +25,6 @@ The assessment consists of three sections:
 
 The assessment is designed to take approximately **3 to 5 hours**.
 
-### Deadline
-
-**Friday, 13th March 2026**
-
 ---
 
 # Allowed Tools
